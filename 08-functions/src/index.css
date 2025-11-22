@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+html,body{
+  height: 100%;
+  width: 100%;
+  background-color: #111;
+}
+
+#page1{
+  height: 100vh;
+  width:100%;
+  background-color: aqua;
+}
+
+#page2{
+  height: 100vh;
+  width:100%;
+  background-color:bisque;
+}
+
+#page3{
+  height: 100vh;
+  width:100%;
+  background-color:azure;
+}
